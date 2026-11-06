@@ -1,0 +1,13 @@
+{
+  "name": "cupcake-atelier",
+  "version": "2.0.0",
+  "description": "Aplicativo web MVC de loja e delivery de cupcakes artesanais (PIT II - Engenharia de Software II - Isabelle Novais Oliveira)",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
